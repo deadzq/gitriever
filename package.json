@@ -1,5 +1,5 @@
 {
-  "name": "iridakos-inspector",
+  "name": "gitriever",
   "private": true,
   "dependencies": {
     "@rails/actioncable": "^6.0.0",
